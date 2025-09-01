@@ -1,0 +1,1 @@
+#W.P.P to print the mean and standard deviation of 5 scores input by the user.
