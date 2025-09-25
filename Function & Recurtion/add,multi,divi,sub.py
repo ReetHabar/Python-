@@ -23,3 +23,5 @@ def recursive_calculator():
         recursive_calculator()
 
 recursive_calculator()
+// you can also used eval()
+//function to creat a calculator 
